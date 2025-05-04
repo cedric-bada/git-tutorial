@@ -1,0 +1,18 @@
+git init -> make a folder/directory into local repo
+git status -> check the status of repo
+git add [file-name] -> add it to the staging enviroment
+git add --all or -A -> add all files to the staging enviroment
+git commit -m => save the file with clear messages
+git status --short => to see files changes in a more compact way
+    Short status flags are:
+    => ?? - untracked files
+        A - Files added to stage
+        M - Modified files
+        D - Deleted files
+git log => view the history of commits for a repo
+
+
+
+NOTE
+ --> README.md file = describes the repo and recommended for all repos
+
