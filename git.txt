@@ -11,6 +11,9 @@ git status --short => to see files changes in a more compact way
         D - Deleted files
 git log => view the history of commits for a repo
 
+git commands -help/--help => show a list of options of specific commands
+git help --all => show a list of all possible commands
+
 
 
 NOTE
