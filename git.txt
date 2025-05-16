@@ -14,6 +14,10 @@ git log => view the history of commits for a repo
 git commands -help/--help => show a list of options of specific commands
 git help --all => show a list of all possible commands
 
+git branch => listing all branches in your repo
+On branch
+    -> [* master] => it specifies that we are currently on that master branch
+git checkout [branch-name] => switching between branches or to check out a branch
 
 
 NOTE
